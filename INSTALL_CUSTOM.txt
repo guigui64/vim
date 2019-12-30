@@ -1,0 +1,3 @@
+sudo apt build-dep vim-gtk3
+make
+sudo make install
